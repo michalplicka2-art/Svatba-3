@@ -1,0 +1,6 @@
+/ (kořen repozitáře)
+├─ index.html
+├─ style.css
+├─ package.json
+└─ api/
+   └─ rsvp.js
